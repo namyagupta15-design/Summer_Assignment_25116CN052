@@ -1,4 +1,4 @@
-Q7 Write a program to Find product of digits.
+//Q7 Write a program to Find product of digits.
 #include<stdio.h>
 int main()
 {
